@@ -1,5 +1,5 @@
 _repo: Thief-of-Mars_62042
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Bok, Hannes
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '51643'
     url: http://www.gutenberg.org/2009/agents/51643
     wikipedia: https://en.wikipedia.org/wiki/Hannes_Bok
+covers:
+- cover_type: archival
+  image_path: 62042-h/images/cover.jpg
 creator:
   author:
     agent_name: Hasse, Henry
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32816
     wikipedia: https://en.wikipedia.org/wiki/Henry_Hasse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62042#Thief-of-Mars
 gutenberg_issued: '2020-05-06'
 gutenberg_type: Text
 identifiers:
